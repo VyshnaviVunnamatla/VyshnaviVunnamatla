@@ -7,10 +7,11 @@ I'm a student with a passion for  Data Science and Machine Learning
 - 📫 How to reach me vyshnavivunnamatla.2105@gmail.com
   
 - ### Skills
-- Programming: Python, Java, C++
+- Programming: Python, Java, DSA
 - Data Science: Pandas, NumPy, Scikit-learn
-- Machine Learning: TensorFlow, PyTorch
-- Tools: Git, Docker, VSCode
+- Machine Learning: TensorFlow, PyTorch, Scikit-learn
+- Data Visualization Tools: Excel, Tableau, Power BI, Matplotlib, Seaborn
+- Tools: Git, VSCode, Jupyter notebook, Kaggle
 
 - ### Projects
 - [Titanic Survival Prediction](https://github.com/VyshnaviVunnamatla/Titanic-Dataset)- Predicting the survival of passengers on the Titanic using machine learning.
