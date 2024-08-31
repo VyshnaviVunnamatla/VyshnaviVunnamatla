@@ -10,7 +10,7 @@ I'm a student with a passion for  Data Science and Machine Learning
 - Programming: Python, Java, DSA
 - Data Science: Pandas, NumPy, Scikit-learn
 - Machine Learning: Scikit-learn
-- Data Visualization Tools: Excel, Tableau, Power BI, Matplotlib
+- Data Visualization Tools: Excel, Tableau, Power BI
 - Tools:VSCode, Jupyter notebook, Kaggle, google colab
 
 - ### Projects
