@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Vyshnavi Vunnamatla
 
 I'm a student with a passion for  Data Science and Machine Learning
-- 👀 I’m currently working on a Black Coffer Data Extraction and Text Analysis 
 - 🌱 I’m currently learning machine learning techniques
 - 💞️ I’m looking to collaborate on data science and machine learning projects
+- 👀 I’m currently working on a Black Coffer Data Extraction and Text Analysis
 - 📫 How to reach me vyshnavivunnamatla.2105@gmail.com
   
 - ### Skills
