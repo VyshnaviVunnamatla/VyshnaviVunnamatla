@@ -14,7 +14,7 @@ I'm a student with a passion for  Data Science and Machine Learning
 - Tools:VSCode, Jupyter notebook, Kaggle, google colab
 
 - ### Projects
-- [Titanic Survival Prediction](https://github.com/VyshnaviVunnamatla/Titanic-Dataset)- Predicting the survival of passengers on the Titanic using machine learning.
+- [Global Furniture Sales Dashboard](https://github.com/VyshnaviVunnamatla/Global-Furniture-Sales-Dashboard)- Interactive dashboard on global furniture sales using PowerBI
 - [Car Sales Dashboard](https://github.com/VyshnaviVunnamatla/CarSales-Dashboard)-Interactive Dashboard on car sales using excel.
 
 - ### Connect with me:
