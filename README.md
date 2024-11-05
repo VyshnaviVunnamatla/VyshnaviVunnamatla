@@ -15,7 +15,7 @@ I'm a student with a passion for  Data Science and Machine Learning
 
 - ### Projects
 - [Global Furniture Sales Dashboard](https://github.com/VyshnaviVunnamatla/Global-Furniture-Sales-Dashboard)- Interactive dashboard on global furniture sales using PowerBI
-- [Image Classification](https://github.com/VyshnaviVunnamatla/Image-Classification)-this classifies the image using python.
+- [Image Classification](https://github.com/VyshnaviVunnamatla/Image-Classification)-This classify images into predefined categories based on patterns and features in the data using machine learning techniques.
 
 - ### Connect with me:
 - LinkedIn: [Vyshnavi Vunnamatla](https://www.linkedin.com/in/vyshnavi-vunnamatla-429944256/)
