@@ -3,7 +3,7 @@
 I'm a student with a passion for  Data Science and Machine Learning
 - 🌱 I’m currently learning machine learning techniques
 - 💞️ I’m looking to collaborate on data science and machine learning projects
-- 📫 How to reach me vyshnavivunnamatla.2105@gmail.com
+- 📫 How to reach me vyshnavivunnamatla21@gmail.com
   
 - ### Skills
 - Programming: Python, Java, DSA
