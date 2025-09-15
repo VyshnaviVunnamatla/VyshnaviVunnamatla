@@ -1,20 +1,18 @@
 # Hi there 👋, I'm Vyshnavi Vunnamatla
 
-I'm a student with a passion for  Data Science and Machine Learning
-- 🌱 I’m currently learning machine learning techniques
-- 💞️ I’m looking to collaborate on data science and machine learning projects
+I'm a student with a passion for  DSA, Web Development and AI
+- 🌱 I’m currently learning web Development and Generative AI
+- 💞️ I’m looking to collaborate on Development projects
 - 📫 How to reach me vyshnavivunnamatla21@gmail.com
   
 - ### Skills
-- Programming: Python, Java, DSA
-- Data Science: Pandas, NumPy, Scikit-learn
-- Machine Learning: Scikit-learn
-- Data Visualization Tools: Excel, Tableau, Power BI
-- Tools:VSCode, Jupyter notebook, Kaggle, google colab
+- Programming: Java, JavaScript, Python, DSA
+- Web Development: React, Node.js, MongoDB
+- Tools: GitHub, VS Code, MySQL, Vercel, Render
 
 - ### Projects
-- [Global Furniture Sales Dashboard](https://github.com/VyshnaviVunnamatla/Global-Furniture-Sales-Dashboard)- Interactive dashboard on global furniture sales using PowerBI
-- [Image Classification](https://github.com/VyshnaviVunnamatla/Image-Classification)-This classify images into predefined categories based on patterns and features in the data using machine learning techniques.
+- [SecureIN](https://github.com/VyshnaviVunnamatla/Zero-Trust-Auth-System)- A full-stack secure authentication platform based on Zero Trust principles 
+- [Coding-Journal](https://github.com/VyshnaviVunnamatla/Coding-Journal)-The Coding Journal App is a full-stack web application built with the MERN stack that allows users to register, log in, and manage a personal collection of coding problems they’ve solved or want to track. 
 
 - ### Connect with me:
 - LinkedIn: [Vyshnavi Vunnamatla](https://www.linkedin.com/in/vyshnavi-vunnamatla-429944256/)
