@@ -3,7 +3,7 @@
 I'm a student with a passion for  DSA, Web Development and AI
 - 🌱 I’m currently learning web Development and Generative AI
 - 💞️ I’m looking to collaborate on Development projects
-- 📫 How to reach me vyshnavivunnamatla21@gmail.com
+- 📫 Reach me out on vyshnavivunnamatla21@gmail.com
   
 - ### Skills
 - Programming: Java, JavaScript, Python, DSA
