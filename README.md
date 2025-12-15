@@ -6,9 +6,13 @@ I'm a student with a passion for  DSA, Web Development and AI
 - 📫 Reach me out on vyshnavivunnamatla21@gmail.com
   
 - ### Skills
-- Programming: Java, JavaScript, Python, DSA
-- Web Development: React, Node.js, MongoDB
-- Tools: GitHub, VS Code, MySQL, Vercel, Render
+- Programming Languages: Java, Python, JavaScript
+- Core CS Concepts: Data Structures & Algorithms, OOP, DBMS, SDLC, CN (basic)
+- Web Technologies: HTML, CSS, React.js, Node.js, Express.js
+- Databases: MongoDB, MySQL
+- APIs & Security: REST APIs, JWT Authentication
+- Tools & Platforms: Git, GitHub, Postman, VS Code, Render, Vercel
+
 
 - ### Projects
 - [SecureIN](https://github.com/VyshnaviVunnamatla/Zero-Trust-Auth-System)- A full-stack secure authentication platform based on Zero Trust principles 
